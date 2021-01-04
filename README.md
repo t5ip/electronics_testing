@@ -1,2 +1,2 @@
 # electronics_testing
-Schematics for various electronics tests
+Eagle schematics for various electronics tests
